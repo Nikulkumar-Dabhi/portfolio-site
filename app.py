@@ -204,7 +204,7 @@ st.markdown(
 
 # --- SIDEBAR ---
 with st.sidebar:
-    st.image("Personal Website/profile.jpg", width=225)
+    st.image("profile.jpg", width=225)
     st.markdown('<div class="sidebar-section" style="background:transparent;box-shadow:none;padding-top:0;">', unsafe_allow_html=True)
     st.markdown(
         """
